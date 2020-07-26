@@ -1,0 +1,16 @@
+.main{
+    text-align: center;
+    background-color: rgb(255, 217, 0);
+    
+}
+.btn{
+    background-color: aqua;
+    margin: 5px;
+}
+
+
+.input-group{
+    width: 40%;
+    height: 100px;
+    background-color: aqua;
+}
